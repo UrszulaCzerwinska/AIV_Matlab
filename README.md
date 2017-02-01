@@ -15,7 +15,7 @@ In this project we
 The full description of the project and the code can be found in our [presentation]() and the [raport/pseudo publication]()
 
 ##Awesome movie
-[![ScreenShot](https://raw.githubusercontent.com/UrszulaCzerwinska/AIV_Matlab/master/bhj.mp4)](http://youtu.be/vt5fpE0bzSY)
+**Do not miss our [awesome movie]**(https://raw.githubusercontent.com/UrszulaCzerwinska/AIV_Matlab/master/bhj.mp4)
 
 
 ##Authors
