@@ -12,7 +12,7 @@ In this project we
 * we propose a simple model to model DNA division according to [Di Ventura et al.] (http://msb.embopress.org/content/9/1/686) 
 
 ##Documentation
-The full description of the project and the code can be found in our [presentation]() and the [raport/pseudo publication]()
+The full description of the project and the code can be found in our [presentation](https://raw.githubusercontent.com/UrszulaCzerwinska/AIV_Matlab/master/Matlab_wizzards.pdf) and the [raport/pseudo publication]()
 
 ##Awesome movie
 **Do not miss our** [awesome movie](https://raw.githubusercontent.com/UrszulaCzerwinska/AIV_Matlab/master/bhj.mp4)
